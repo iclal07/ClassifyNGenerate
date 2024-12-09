@@ -13,21 +13,21 @@ ClassifyNGenerate, haber metinlerini analiz eden, sınıflandıran ve genişlete
 ## 📂 **Proje Dosya Yapısı**
 ```plaintext
 Project/
-├── main2.py                      # Main execution file
-├── modules/                      # Core modules
-│   ├── data_processing.py        # Text preprocessing utilities
-│   ├── model_training.py         # Model training and saving
-│   ├── predict.py                # Prediction and classification
-│   ├── text_generation.py        # Text expansion using LLaMA
-│   ├── model_loader.py           # LLaMA model loader
-├── data/                         # Data directory
-│   ├── train.parquet             # Training data
-│   ├── test.parquet              # Test data
-├── models/                       # Saved models
-│   ├── logistic_model.pkl        # Logistic Regression model
-│   ├── vectorizer.pkl            # TF-IDF vectorizer
-│   ├── Llama-3.2-3B/             # LLaMA 3.2 model files
+├── modules/                      # Ana modüller
+│   ├── data_processing.py        # Metin ön işleme yardımcı araçları
+│   ├── model_training.py         # Model eğitimi ve kaydetme
+│   ├── predict.py                # Tahmin ve sınıflandırma
+│   ├── text_generation.py        # LLaMA kullanarak metin genişletme
+│   ├── model_loader.py           # LLaMA model yükleyici
+├── data/                         # Veri dizini
+│   ├── train.parquet             # Eğitim verisi
+│   ├── test.parquet              # Test verisi
+├── models/                       # Kaydedilen modeller
+│   ├── logistic_model.pkl        # Logistic Regression modeli
+│   ├── vectorizer.pkl            # TF-IDF vektörleştirici
+│   ├── Llama-3.2-3B/             # LLaMA 3.2 model dosyaları
 
+```
 
 
 ## 🚀 Nasıl Çalışır?
