@@ -28,7 +28,15 @@ Project/
 │   ├── Llama-3.2-3B/             # LLaMA 3.2 model dosyaları
 
 ```
-
+## Kullanılan Veriseti
+**[AG News Veri Seti](https://huggingface.co/datasets/wangrongsheng/ag_news)**
+- **Amaç:** Metin sınıflandırma modeli eğitimi.
+- **Özellikler:**
+  - **Kategoriler:** Dünya, Spor, İş, Bilim/Teknoloji.
+  - **Örnek Sayısı:** 
+    - Eğitim verisi: 120.000
+    - Test verisi: 7.600
+  - **Yapı:** Her örnek bir haber başlığı, içerik ve sınıf etiketi içerir.
 
 ## 🚀 Nasıl Çalışır?
 1. **Metin Temizleme:** Haber metni işlenir ve temizlenir.
