@@ -59,10 +59,9 @@ Bu model, haber sınıflandırma görevinde tutarlı ve yüksek bir performans g
 - **Optimizasyon:** PyTorch ile MPS (Metal Performance Shaders) GPU hızlandırma.
 - **Donanım:** Apple M3 Pro
 - **Performans Değerlendirme:**
-  - **ROUGE-1:** X.XXX
-  - **ROUGE-L:** X.XXX
-  - **BLEU:** X.XXX
-
+  - **ROUGE-1:** Metne bağlı olarak değişken sonuçlar.
+  - **ROUGE-L:** Metne bağlı olarak değişken sonuçlar.
+  - **BLEU:** Metne bağlı olarak değişken sonuçlar.
 #### Not:
 - LLaMA modelinde fine-tuning yapılmadığından dolayı, skorlar genel model performansını yansıtmaktadır. Gelecekte, fine-tuning işlemi ile performansın artırılması planlanmaktadır.
 
@@ -110,6 +109,7 @@ Projede yer alan kodlar aşağıdaki işlevleri yerine getirir:
 
 4. **Arayüz Üzerinden Analiz Yapın:**
    Haber metnini girerek sınıflandırma, genişletme ve performans değerlendirme işlemlerini gerçekleştirin.
+--------
 
 ## 💻 Ekran Görüntüleri
 Haber metni analizi sırasında arayüzü ve süreçleri aşağıdaki gibi gözlemleyebilirsiniz.
@@ -123,6 +123,7 @@ Haber metni analizi sırasında arayüzü ve süreçleri aşağıdaki gibi gözl
 ## 🎥 Demo GIF
 Projenin nasıl çalıştığına göz atın!
 ![Demo GIF](assets/demo-final.gif)
+
 
 ## 🤝 Katkı Sağlama
 Projeye katkıda bulunmak için:
