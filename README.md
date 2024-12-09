@@ -124,7 +124,6 @@ Haber metni analizi sırasında arayüzü ve süreçleri aşağıdaki gibi gözl
 Projenin nasıl çalıştığına göz atın!
 ![Demo GIF](assets/demo-final.gif)
 
-
 ## 🤝 Katkı Sağlama
 Projeye katkıda bulunmak için:
 1. Bir fork oluşturun.
