@@ -114,15 +114,15 @@ Projede yer alan kodlar aşağıdaki işlevleri yerine getirir:
 ## 💻 Ekran Görüntüleri
 Haber metni analizi sırasında arayüzü ve süreçleri aşağıdaki gibi gözlemleyebilirsiniz.
 
-### 1. Giriş ve Tahmin Süreci
-![Giriş ve Tahmin](https://via.placeholder.com/800x400?text=Ekran+Görüntüsü+Eklenecek)
+### 1. Giriş ekranı
+![Giriş](assets/interface_1.png)
 
-### 2. Genişletilmiş Metin ve Performans Skorları
-![Sonuçlar](https://via.placeholder.com/800x400?text=Sonuç+Ekranı+Eklenecek)
+### 2. Çıktılar
+![Çıktılar](assets/interface_2.png)
 
 ## 🎥 Demo GIF
 Projenin nasıl çalıştığını kısa bir demo GIF ile görüntüleyin:
-![Demo](https://via.placeholder.com/800x400?text=Demo+GIF+Eklenecek)
+![Demo GIF](assets/demo_final.gif)
 
 ## 🤝 Katkı Sağlama
 Projeye katkıda bulunmak için:
