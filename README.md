@@ -30,7 +30,6 @@ Project/
 ```
 ## Kullanılan Veriseti
 **[AG News Veri Seti](https://huggingface.co/datasets/wangrongsheng/ag_news)**
-- **Amaç:** Metin sınıflandırma modeli eğitimi.
 - **Özellikler:**
   - **Kategoriler:** Dünya, Spor, İş, Bilim/Teknoloji.
   - **Örnek Sayısı:** 
