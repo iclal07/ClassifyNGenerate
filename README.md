@@ -121,8 +121,8 @@ Haber metni analizi sırasında arayüzü ve süreçleri aşağıdaki gibi gözl
 ![Çıktılar](assets/interface_2.png)
 
 ## 🎥 Demo GIF
-Projenin nasıl çalıştığını kısa bir demo GIF ile görüntüleyin:
-![Demo GIF](assets/demo_final.gif)
+Projenin nasıl çalıştığına göz atın!
+![Demo GIF](assets/demo-final.gif)
 
 ## 🤝 Katkı Sağlama
 Projeye katkıda bulunmak için:
