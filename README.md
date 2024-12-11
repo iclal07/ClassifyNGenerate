@@ -25,7 +25,7 @@ Project/
 ├── models/                       # Kaydedilen modeller
 │   ├── logistic_model.pkl        # Logistic Regression modeli
 │   ├── vectorizer.pkl            # TF-IDF vektörleştirici
-│   ├── Llama-3.2-3B/             # LLaMA 3.2 model dosyaları
+
 
 ```
 ## Kullanılan Veriseti
